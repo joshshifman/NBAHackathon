@@ -12,13 +12,13 @@ Michgian Data Science Team, University of Michigan
 
 Please check out our working code hosted in NBViewer!
 
-![Original Voronoi Tessellation ](orig.png?raw=true "Title" =300x)
+![Original Voronoi Tessellation](orig.png?raw=true)
 
-![Leave One Out Voronoi Tessellation ](take1out.png?raw=true "Title" =300x)
+![Leave One Out Voronoi Tessellation ](take1out.png?raw=true)
 
 ## Brief Statement of Methodology
 #### Not all spots on court is created equal: 
-We base our research on one of the previously calculated discretized model based on shot success probability.	![court_value](court_value.png?raw=true "Title" =300x)
+We base our research on one of the previously calculated discretized model based on shot success probability.	![court_value](court_value.png?raw=true)
 
 #### Voronoi tessellation tells who controls where
 And the control weight decays with the increase of distance between the spot and nearest player. The control weighted sum of land value of a player can be readily calculated for any time frame.
